@@ -1,0 +1,44 @@
+{
+  "card": {
+    "title": "EMHASS Schedule",
+    "no_data": "No schedule data available",
+    "now": "Now"
+  },
+  "summary": {
+    "load": "Load",
+    "status": "Status",
+    "hours": "Hours",
+    "power": "Power",
+    "on": "ON",
+    "off": "OFF",
+    "planned": "planned",
+    "kwh": "kWh",
+    "cost": "cost",
+    "savings": "saved",
+    "actual": "Actual",
+    "of": "of",
+    "compliance": "compliance"
+  },
+  "pv": {
+    "label": "PV Forecast",
+    "peak": "Peak",
+    "unit": "W"
+  },
+  "editor": {
+    "title": "EMHASS Schedule Card",
+    "card_title": "Card title",
+    "hours": "Time horizon (hours)",
+    "show_pv": "Show PV forecast",
+    "show_summary": "Show load summary",
+    "pv_entity": "PV forecast entity",
+    "pv_attribute": "PV attribute",
+    "pv_field": "PV field name",
+    "loads": "Loads",
+    "add_load": "Add load",
+    "load_entity": "Entity",
+    "load_name": "Name",
+    "load_icon": "Icon",
+    "load_color": "Color",
+    "load_power": "Nominal power (W)"
+  }
+}

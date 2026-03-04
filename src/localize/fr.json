@@ -1,0 +1,44 @@
+{
+  "card": {
+    "title": "Planning EMHASS",
+    "no_data": "Aucune donnee de planning disponible",
+    "now": "Maint."
+  },
+  "summary": {
+    "load": "Charge",
+    "status": "Etat",
+    "hours": "Heures",
+    "power": "Puissance",
+    "on": "ON",
+    "off": "OFF",
+    "planned": "planifie",
+    "kwh": "kWh",
+    "cost": "cout",
+    "savings": "economise",
+    "actual": "Realise",
+    "of": "sur",
+    "compliance": "conformite"
+  },
+  "pv": {
+    "label": "Prevision PV",
+    "peak": "Pic",
+    "unit": "W"
+  },
+  "editor": {
+    "title": "Carte Planning EMHASS",
+    "card_title": "Titre de la carte",
+    "hours": "Horizon temporel (heures)",
+    "show_pv": "Afficher prevision PV",
+    "show_summary": "Afficher resume des charges",
+    "pv_entity": "Entite prevision PV",
+    "pv_attribute": "Attribut PV",
+    "pv_field": "Nom du champ PV",
+    "loads": "Charges",
+    "add_load": "Ajouter une charge",
+    "load_entity": "Entite",
+    "load_name": "Nom",
+    "load_icon": "Icone",
+    "load_color": "Couleur",
+    "load_power": "Puissance nominale (W)"
+  }
+}
